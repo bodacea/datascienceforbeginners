@@ -12,15 +12,15 @@ Course structure is one topic per week, with:
 * In session: Lab time, trying Python/R code related to those techniques
 * Post-session: “further reading” list of blogposts, books, courses etc, for anyone wanting to dive further into that topic
 
-This gives an overview of 5-7 concepts per week,  totalling up to a better understanding of how data scientists work, and hopefully also a desire to explore this topic further.  Examples used will be taken from social data science (P3) and free/open-source tools; these should be supplemented by guest talks from company data scientists about their projects, work and toolsets.  The sessions are based on a Columbia University course being run in Spring 2016.
+This gives an overview of 5-7 concepts per week,  totalling up to a better understanding of how data scientists work, and hopefully also a desire to explore this topic further.  Examples used will be taken from social data science and free/open-source tools; these should be supplemented by guest talks from company data scientists about their projects, work and toolsets.  The sessions are based on a Spring 2016 Columbia University.
 
 ## Helpful files
 
 * People form = not taking notes on who attends, but want you to have somewhere you can tell other people what you’re interested in, and find other people in your office/ area
-* Tool install instructions
+* [Tool install instructions](http://htmlpreview.github.io/?https://github.com/bodacea/datascienceforbeginners/blob/master/Reference/ToolInstallInstructions.html)
 * [Course reading list](http://htmlpreview.github.io/?https://github.com/bodacea/datascienceforbeginners/blob/master/Reference/Coursereadinglist.html)
-* Places to look for development datasets
-* Places to get more help (communities, courses etc)
+* [Places to look for development datasets](http://htmlpreview.github.io/?https://github.com/bodacea/datascienceforbeginners/blob/master/Reference/Placestolookfordevelopmentdatasets.html)
+* [Places to get more help](http://htmlpreview.github.io/?https://github.com/bodacea/datascienceforbeginners/blob/master/Reference/DataSciencecommunitiesandcourses.html) (communities, courses etc)
 
 
 ## Sessions
