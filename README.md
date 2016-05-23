@@ -18,7 +18,7 @@ This gives an overview of 5-7 concepts per week,  totalling up to a better under
 
 * People form = not taking notes on who attends, but want you to have somewhere you can tell other people what you’re interested in, and find other people in your office/ area
 * Tool install instructions
-* Course reading list
+* [Course reading list](http://htmlpreview.github.io/?https://github.com/bodacea/datascienceforbeginners/blob/master/Reference/Coursereadinglist.html)
 * Places to look for development datasets
 * Places to get more help (communities, courses etc)
 
